@@ -1,2 +1,2 @@
-# web_from_scratch
-Basic website with simple functions in AngularJS
+# Basic Web
+Basic website with simple functions in AngularJS.
